@@ -64,14 +64,7 @@ export default function Home() {
         </div>
 
       <footer className={styles.footer}>
-        <a
-          href="https://github.com/Priyatham-sai-chand/alzapp"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
+       
       </footer>
     </div>
   )
